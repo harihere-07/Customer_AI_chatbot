@@ -1,0 +1,5 @@
+FastApi
+pydantic
+BaseModel
+requests
+uvicorn
